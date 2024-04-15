@@ -16,7 +16,7 @@ Este projeto é um exemplo prático que demonstra como consumir uma API externa 
 2. Navegue até o diretório do projeto: `cd spring-sse-sample`
 3. Execute a aplicação: `./mvnw spring-boot:run`
 4. Acesse a documentação da API: [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
-5. Experimente fazer uma requisição SSE para a rota `/weather/stream` para receber a stream da previsão do tempo por um minuto.
+5. Experimente fazer uma requisição SSE para a rota `/events/start` para receber a stream da previsão do tempo por um minuto.
 
 ## Observações
 
