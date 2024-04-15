@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "api.lat",
+    "type": "java.lang.String",
+    "description": "A description for 'api.lat'"
+  },
+  {
+    "name": "api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.url'"
+  },
+  {
+    "name": "unit.code",
+    "type": "java.lang.String",
+    "description": "A description for 'unit.code'"
+  },
+  {
+    "name": "api.id",
+    "type": "java.lang.String",
+    "description": "A description for 'api.id'"
+  },
+  {
+    "name": "api.lang",
+    "type": "java.lang.String",
+    "description": "A description for 'api.lang'"
+  },
+  {
+    "name": "api.lon",
+    "type": "java.lang.String",
+    "description": "A description for 'api.lon'"
+  }
+]}
